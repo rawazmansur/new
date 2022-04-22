@@ -1,0 +1,20 @@
+**clinicA - shabane ruzi
+ &salamat - ofuni - reza - @sahar - #ali - #maryam - #ghasem asadi
+ &khosusi - ICU - - @jalal ahmadi
+ M_akbari - 300 - akbariUser - akbariPass
+ R_reza - salamat - 150 - rezaUser - 
+ R_abbas - - - abbasUser - abbasPass
+ @sahar - ofuni - salamat - 200 - 30 - saharUser - saharPass
+ @jalal ahmadi - ICU - khosusi - - - jalalUser - jalalPass
+ This Line has useless information
+ #ali - ofuni - - aliUser - aliPass
+ #maryam - ofuni - 290 - maryamUser - maryamPass
+ #ghasem asadi - ofuni - 130 - - ghasemPass
+
+
+**clinicB - aadi
+ @kaveh - jarahi - alef - 190 - 40 - kavehUser - kavehPass
+ &alef - jarahi - zahra shad - @kaveh - #javad
+ M_mohammadi - 280 - mohammadiUser - mohammadiPass
+ R_zahra shad - alef - 120 - zahraUser -zahraPass
+ #javad - jarahi - 210 - javadUser - javadPass
